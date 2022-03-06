@@ -22,10 +22,9 @@ rgb(2, 123, 135)
   background-color: rgb(255, 222, 147);
 }
 
-/*
 .container {
-  background-color: var(--secondary-color)
-} */
+  background-color: rgb(128, 189, 210)
+}
 
 .mainv1 {
   font-family: 'Domine', sans-serif;
