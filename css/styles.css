@@ -30,9 +30,10 @@ rgb(2, 123, 135)
   background-color: var(--background-color);
 }
 
+/*
 .container {
   background-color: var(--secondary-color)
-}
+} */
 
 .mainv1 {
   font-family: 'Domine', sans-serif;
